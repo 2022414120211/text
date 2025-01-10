@@ -1,0 +1,14 @@
+debug/aboutdialog.o
+debug/codeeditor.o
+debug/main.o
+debug/mainwindow.o
+debug/replacedialog.o
+debug/searchdialog.o
+debug/syntaxhighlighter.o
+debug/qrc_image.o
+debug/moc_aboutdialog.o
+debug/moc_codeeditor.o
+debug/moc_mainwindow.o
+debug/moc_replacedialog.o
+debug/moc_searchdialog.o
+debug/moc_syntaxhighlighter.o

@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/OIP.jpg</file>
+        <file>image/chexiao.png</file>
+        <file>image/copy.png</file>
+        <file>image/jianqie.png</file>
+        <file>image/new.png</file>
+        <file>image/save.png</file>
+        <file>image/saveas.png</file>
+        <file>image/search.png</file>
+        <file>image/tihuan.png</file>
+        <file>image/zhantie.png</file>
+        <file>image/font.png</file>
+        <file>image/huanhang.png</file>
+        <file>image/huifu.png</file>
+        <file>image/zhuangtailan.png</file>
+        <file>image/gongjulan.png</file>
+    </qresource>
+</RCC>

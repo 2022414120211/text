@@ -1,0 +1,14 @@
+release/aboutdialog.o
+release/codeeditor.o
+release/main.o
+release/mainwindow.o
+release/replacedialog.o
+release/searchdialog.o
+release/syntaxhighlighter.o
+release/qrc_image.o
+release/moc_aboutdialog.o
+release/moc_codeeditor.o
+release/moc_mainwindow.o
+release/moc_replacedialog.o
+release/moc_searchdialog.o
+release/moc_syntaxhighlighter.o
